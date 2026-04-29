@@ -44,11 +44,3 @@ Mouse Drag: Rotate car (Main Menu)
 
 
 ---
-
-### 2. Update GitHub from CMD
-Once you have saved the `README.md` file in your folder, run these commands to send the updates to GitHub:
-
-```bash
-git add README.md
-git commit -m "Added professional documentation and setup guide"
-git push origin main
